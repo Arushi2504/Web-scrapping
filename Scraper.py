@@ -59,5 +59,3 @@ if again.lower() in ('yes', 'y'):
 else:
 	print("Goodbye")
 
-
-print("AFTER WHILE  LOOP")
